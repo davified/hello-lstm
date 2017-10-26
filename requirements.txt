@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+serial
+seaborn
+quandl
+keras
+jupyter
+pandas
+matplotlib
